@@ -1,0 +1,79 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fad fa-link fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione repudiandae mollitia quia, asperiores esse quod aut labore recusandae praesentium minima ex quam nulla, optio a natus magnam molestias architecto debitis."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fad fa-bolt fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione repudiandae mollitia quia, asperiores esse quod aut labore recusandae praesentium minima ex quam nulla, optio a natus magnam molestias architecto debitis."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fad fa-tachometer fa-2x",
+      "title": "Mobile UX",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione repudiandae mollitia quia, asperiores esse quod aut labore recusandae praesentium minima ex quam nulla, optio a natus magnam molestias architecto debitis."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/images/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/portfolio-img7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/portfolio-img8.jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "name": "facebook",
+      "icon": "fab fa-facebook-f 3x",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "name": "twitter",
+      "icon": "fab fa-twitter ",
+      "title": "Tweet Me on",
+      "body": "Social Twitter"
+    },
+    {
+      "id": 1,
+      "name": "pin",
+      "icon": "fab fa-pinterest",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ]
+}
